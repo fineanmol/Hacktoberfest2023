@@ -2054,14 +2054,22 @@ contributors = [
     fullname: "Mohit Yadav",
     username: "https://github.com/ymohit1603",
   },
+
+  ,
   {
     id: 424,
+    fullname: "Kunal Vaghela",
+    username: "https://github.com/Kunal0127",
+
+  {
+    id: 425,
     fullname: "Sumit Br",
     username: "https://github.com/SumitBr",
   },
   {
-    id: 425,
+    id: 426,
     fullname: "Auro S.",
     username: "https://github.com/aurocodes",
+
   },
 ];
